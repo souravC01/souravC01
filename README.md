@@ -2,7 +2,7 @@
 
 # Hi, I'm Sourav Chandhok 👋
 
-### Software Developer | Java & Python Backend • Full-Stack • AI Applic ations
+### Software Developer | Java & Python Backend • Full-Stack • AI Applications
 
 I build reliable backend systems, modern web applications, and practical AI-powered tools.
 
