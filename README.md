@@ -22,6 +22,55 @@ I build reliable backend systems, modern web applications, and practical AI-powe
 - 🤖 Building AI/LLM applications with evidence-aware generation, structured workflows, and secure multi-tenant architectures
 - 🌱 Interested in Java backend, full-stack, and AI application development roles
 
+## Featured Projects
+
+### [RoleImpact](https://github.com/souravC01/RoleImpact) — Access-Change Impact Simulator
+
+**Java 21 • Spring Boot • React • TypeScript • PostgreSQL • Docker • Testcontainers**
+
+A deterministic simulation platform that helps teams understand which permissions and business workflows would be affected before an employee, role, or permission is removed. It provides ranked, evidence-backed mitigation recommendations and before-and-after workflow analysis.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/RoleImpact)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://roleimpact.vercel.app/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/roleimpact/)
+
+---
+
+### [JobHelperGuru](https://github.com/souravC01/JobHelperGuru) — AI-Powered Job Application Assistant
+
+**Python • FastAPI • React • PostgreSQL • OpenAI API • Docker**
+
+An AI-powered workspace that analyzes job postings, ranks multiple resumes by ATS fit, generates claim-aware resume improvements, and tracks applications. Its provider-agnostic LLM pipeline supports cloud and local models while preventing unsupported skills and metrics.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/JobHelperGuru)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://jobhelperguru.vercel.app/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/jobhelperguru/)
+
+---
+
+### [YU Bazaar](https://github.com/souravC01/yu-bazaar) — Secure Campus Marketplace
+
+**Java 17 • Spring Boot • Spring Security • PostgreSQL • Cloudflare R2 • Docker**
+
+A production-deployed marketplace for York University students featuring public listings, email and York-student verification, secure authentication, password recovery, cloud-hosted images, and owner-only controls. Automated tests and GitHub Actions validate the application before deployment.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/yu-bazaar)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://yu-bazaar.vercel.app/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/yu-bazaar/)
+
+---
+
+### [Toronto Airbnb Market Network](https://github.com/souravC01/toronto-airbnb-market-network) — Interactive Data Platform
+
+**React • TypeScript • Python • Network Science • GitHub Actions**
+
+An interactive analysis of **15,809 Toronto Airbnb listings** using graph exploration and community-detection techniques. A reproducible Python pipeline keeps the application data synchronized with the underlying research, while CI validates builds, tests, and analytical artifacts.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/toronto-airbnb-market-network)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://toronto-airbnb-market-network.vercel.app/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/toronto-airbnb/)
+
+
 ## Tech Stack
 
 ### Languages
@@ -96,68 +145,10 @@ I build reliable backend systems, modern web applications, and practical AI-powe
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
 
-## Featured Projects
-
-### [RoleImpact](https://github.com/souravC01/RoleImpact) — Access-Change Impact Simulator
-
-**Java 21 • Spring Boot • React • TypeScript • PostgreSQL • Docker • Testcontainers**
-
-A deterministic simulation platform that helps teams understand which permissions and business workflows would be affected before an employee, role, or permission is removed. It provides ranked, evidence-backed mitigation recommendations and before-and-after workflow analysis.
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/RoleImpact)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://roleimpact.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/roleimpact/)
-
----
-
-### [JobHelperGuru](https://github.com/souravC01/JobHelperGuru) — AI-Powered Job Application Assistant
-
-**Python • FastAPI • React • PostgreSQL • OpenAI API • Docker**
-
-An AI-powered workspace that analyzes job postings, ranks multiple resumes by ATS fit, generates claim-aware resume improvements, and tracks applications. Its provider-agnostic LLM pipeline supports cloud and local models while preventing unsupported skills and metrics.
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/JobHelperGuru)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://jobhelperguru.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/jobhelperguru/)
-
----
-
-### [YU Bazaar](https://github.com/souravC01/yu-bazaar) — Secure Campus Marketplace
-
-**Java 17 • Spring Boot • Spring Security • PostgreSQL • Cloudflare R2 • Docker**
-
-A production-deployed marketplace for York University students featuring public listings, email and York-student verification, secure authentication, password recovery, cloud-hosted images, and owner-only controls. Automated tests and GitHub Actions validate the application before deployment.
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/yu-bazaar)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://yu-bazaar.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/yu-bazaar/)
-
----
-
-### [Toronto Airbnb Market Network](https://github.com/souravC01/toronto-airbnb-market-network) — Interactive Data Platform
-
-**React • TypeScript • Python • Network Science • GitHub Actions**
-
-An interactive analysis of **15,809 Toronto Airbnb listings** using graph exploration and community-detection techniques. A reproducible Python pipeline keeps the application data synchronized with the underlying research, while CI validates builds, tests, and analytical artifacts.
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/toronto-airbnb-market-network)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://toronto-airbnb-market-network.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/toronto-airbnb/)
-
-## Professional Experience
-
-### Application Programmer Analyst Co-op — Ontario Ministry of Education
-
-`May 2023 – August 2024` • Toronto, Canada
-
-- Contributed to Ontario government applications across **Java**, **React**, **REST APIs**, and **Oracle Database** layers.
-- Built and executed **500+ manual and automated test cases** using Selenium and HP ALM.
-- Investigated and tracked **200+ functional and technical defects** across QA and UAT environments.
-- Supported **5+ software release cycles** using Jenkins and CI/CD workflows in an Agile environment.
 
 ## Let's Connect
 
-I'm currently open to full-time **Java backend**, **full-stack**, and **AI application development** opportunities across Canada.
+I'm currently open to full-time **Software Developer** opportunities across Canada.
 
 - 🌐 [Portfolio](https://souravchandhok.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/souravchandhok)
