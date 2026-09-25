@@ -32,7 +32,7 @@ A deterministic simulation platform that helps teams understand which permission
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/RoleImpact)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://roleimpact.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/roleimpact/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://souravchandhok.dev/projects/roleimpact/)
 
 ---
 
@@ -44,7 +44,7 @@ An AI-powered workspace that analyzes job postings, ranks multiple resumes by AT
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/JobHelperGuru)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://jobhelperguru.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/jobhelperguru/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://souravchandhok.dev/projects/jobhelperguru/)
 
 ---
 
@@ -56,7 +56,7 @@ A production-deployed marketplace for York University students featuring public 
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/yu-bazaar)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://yu-bazaar.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/yu-bazaar/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://souravchandhok.dev/projects/yu-bazaar/)
 
 ---
 
@@ -68,7 +68,7 @@ An interactive analysis of **15,809 Toronto Airbnb listings** using graph explor
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/souravC01/toronto-airbnb-market-network)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://toronto-airbnb-market-network.vercel.app/)
-[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://www.souravchandhok.dev/projects/toronto-airbnb/)
+[![Case Study](https://img.shields.io/badge/Case_Study-2563EB?style=flat-square&logo=readme&logoColor=white)](https://souravchandhok.dev/projects/toronto-airbnb/)
 
 
 ## Tech Stack
